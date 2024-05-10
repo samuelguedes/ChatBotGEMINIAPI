@@ -1,2 +1,2 @@
 # ChatBotGEMINIAPI
-Meu primeiro chatbotGeminiGoogleAPI
+Meu primeiro chatbotGeminiGoogleAPI imersão IA Alura Google
