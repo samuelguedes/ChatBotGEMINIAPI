@@ -1,0 +1,2 @@
+# ChatBotGEMINIAPI
+Meu primeiro chatbotGeminiGoogleAPI
